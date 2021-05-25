@@ -4,7 +4,7 @@
 
 ## Something about Me !!
 - I Am A Programming Enthusiastic.
-- I Have A Deep Interest In Mindset.
+- I Have Keen Interest In Mindset.
 - I Love Adventure, Playing Video Games.
 - I Like To Read Books.
 - In Free Time I Like To Watch Anime.
