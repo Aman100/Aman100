@@ -46,7 +46,7 @@
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aman-warudkar-06811b149) &nbsp;&nbsp;&nbsp;
-[![instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/aman_warudkar1)
+[![instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/aman_warudkar)
 
 [website]: https://aman100.github.io/portfolio
 [instagram]: https://instagram.com/aman_warudkar
