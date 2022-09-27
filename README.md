@@ -49,5 +49,5 @@
 [![instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/aman_warudkar1)
 
 [website]: https://aman100.github.io/portfolio
-[instagram]: https://instagram.com/aman_warudkar1
+[instagram]: https://instagram.com/aman_warudkar
 [linkedin]: https://linkedin.com/in/aman-warudkar-06811b149
