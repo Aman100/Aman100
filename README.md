@@ -11,17 +11,14 @@
 
 <br />
 
-## My Profiles On Competitive Programming Platforms:
-- GeeksForGeeks: https://auth.geeksforgeeks.org/user/amanwarudkar1/practice 
-- Codechef: https://www.codechef.com/users/hypertech1
-- Codeforces: https://codeforces.com/profile/aman121
+## My Profile On Competitive Programming Platform:
 - LeetCode: https://leetcode.com/amanwarudkar1/
 
 <br />
 
 ## Projects:
 - ReportEasy: It enables user to create reports easily.
-- HelloBoot: A SpringBoot Replica.
+- HelloBoot: A RestAPI Framwork.
 - Athena: An HTTP Server in Python.
 - Cowin Slot Availability Notifier : An Application which i have made in JAVA which notifies user when it founds an available slot. 
 - Portfolio : A Portfolio which i have made in React JS.
