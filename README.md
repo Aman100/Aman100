@@ -1,17 +1,17 @@
-## Hii Guys, Aman this side. 👋
+## Hi, Aman this side. 👋
 
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&label=PORTFOLIO&message=%20&color=GREEN)](https://aman100.github.io/portfolio)
 
 ## Something about Me !!
 - I Am A Programming Enthusiastic.
-- I Have Keen Interest in observing, analyzing, understanding my thoughts and how it impacts my actions.
+- I Have Keen Interest in Philosophy.
 - I Love Adventure, Playing Video Games.
 - I Like To Read Books.
 - In Free Time I Like To Watch Anime.
 
 <br />
 
-## My Profile On Competitive Programming Platform:
+## My Profile On Leetcode:
 - LeetCode: https://leetcode.com/amanwarudkar1/
 
 <br />
@@ -25,26 +25,10 @@
 
 <br />
 
-## Programming Skills:
-
-- JAVA/J2EE
-- JAVASCRIPT
-- REACT JS
-- SPRINGBOOT
-- JSON
-- C++
-- PYTHON
-- BOOTSTRAP
-- HTML
-- CSS
-
-<br />
-
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aman-warudkar-06811b149) &nbsp;&nbsp;&nbsp;
 [![instagram](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/aman_warudkar)
 
 [website]: https://aman100.github.io/portfolio
-[instagram]: https://instagram.com/aman_warudkar
 [linkedin]: https://linkedin.com/in/aman-warudkar-06811b149
