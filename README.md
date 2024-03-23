@@ -25,4 +25,4 @@
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aman-warudkar-06811b149)
-[linkedin]: https://linkedin.com/in/aman-warudkar-06811b149
+https://linkedin.com/in/aman-warudkar-06811b149
