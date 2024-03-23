@@ -1,7 +1,5 @@
 ## Hi, Aman this side. 👋
 
-[![Website](https://img.shields.io/static/v1?style=for-the-badge&label=PORTFOLIO&message=%20&color=GREEN)](https://aman100.github.io/portfolio)
-
 ## Something about Me !!
 - I Am A Programming Enthusiastic.
 - I Have Keen Interest in Philosophy.
@@ -27,6 +25,4 @@
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/aman-warudkar-06811b149)
-
-[website]: https://aman100.github.io/portfolio
 [linkedin]: https://linkedin.com/in/aman-warudkar-06811b149
