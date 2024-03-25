@@ -2,9 +2,7 @@
 
 ## Something about Me !!
 - I Am A Programming Enthusiastic.
-- I Have Keen Interest in Philosophy.
 - I Love Adventure, Playing Video Games.
-- I Like To Read Books.
 - In Free Time I Like To Watch Anime.
 
 <br />
